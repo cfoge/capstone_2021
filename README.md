@@ -8,6 +8,8 @@ Acknowledgements:
 **Lars Larson** (LZX Industries)
 **Ed Leckie**
 
+# *!!READ ME NEEDS FORMATTING FIXED!!* SEE PDF version for formatted report
+
 # Executive summary
 
 #### Introduction
