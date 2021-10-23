@@ -285,7 +285,6 @@ elements into a final working design deployed on hardware.
                                       memory space
   ----------------------------------- -----------------------------------
 
-  : Table 1: Timeline comparison
 
 #  Introduction/Statement of the Problem
 
@@ -350,10 +349,6 @@ The specific aims of this project are to:
 
 -   Control mixing and effects via an interface (physical or digital)
 
-![](./media/image2.png){width="3.1527777777777777in"
-height="2.2152777777777777in"}
-
-Figure 1. Digilent Arty Z7 Development Board
 
 # Background and Literature Review
 
@@ -613,11 +608,6 @@ hugely advantageous when compared to methods such as Integrated Logic
 Analyzer (ILA) or a custom debug solution using the PS core or
 JTAG-to-AXI (AXI debug interface).
 
-![](./media/image2.png){width="2.7395833333333335in"
-height="0.8958333333333334in"}
-
-Figure 6. LEDs on the Arty Z7
-
 During the development of this project, these LEDs were used to:
 
 1.  Confirm the operation of slow speed clocks such as the pixel clock
@@ -639,10 +629,6 @@ For situations where more detail was required than confirming that a
 clock was running or a flag being toggled, the built-in PMOD ports of
 the Arty Z7 were used to break out internal signals to an oscilloscope
 or logic analyser.
-
-![](./media/image2.png){width="2.8958333333333335in" height="1.125in"}
-
-Figure 7. PMOD ports on the Arty Z7
 
 During the development of this project, the PMOD port was used to:
 
