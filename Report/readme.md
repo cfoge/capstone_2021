@@ -1,1 +1,1 @@
-The final capstone report with figures, equations and references.
+The final capstone report with figures, equations, images and references.
